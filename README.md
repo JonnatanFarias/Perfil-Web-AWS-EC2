@@ -1,5 +1,3 @@
-# Portfólio Pessoal - Jonnatan Silva de Farias
-
 Este é um projeto simples de página de portfólio pessoal desenvolvido com **HTML5**, **CSS3** e o framework **Bootstrap 5**. O objetivo é apresentar minhas informações acadêmicas, habilidades técnicas e formas de contato de maneira clara, responsiva e elegante.
 
 ## 🔗 Acesso ao Projeto
